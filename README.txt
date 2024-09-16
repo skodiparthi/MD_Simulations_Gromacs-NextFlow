@@ -15,6 +15,10 @@ This repository contains a molecular dynamics (MD) simulation pipeline using GRO
 1. Install [GROMACS](http://www.gromacs.org/Downloads).
 2. Install [Nextflow](https://www.nextflow.io/docs/latest/getstarted.html).
 
+## Inputs
+Place your molecular structure (`structure.gro`), topology (`topology.top`), and simulation parameters (`md.mdp`) in the represented files before running the pipeline.
+
+
 To clone this repository:
 
 ```bash
