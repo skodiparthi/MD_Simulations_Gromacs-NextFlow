@@ -22,7 +22,7 @@ Place your molecular structure (`structure.gro`), topology (`topology.top`), and
 To clone this repository:
 
 ```bash
-git clone https://github.com/skodiparthi/gromacs-nextflow-pipeline.git
+git clone https://github.com/skodiparthi/MD_Simulations_Gromacs-NextFlow.git
 cd gromacs-nextflow-pipeline
 ```
 
